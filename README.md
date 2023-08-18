@@ -48,7 +48,7 @@ TA office hours: TBA
 
 <a id="org4ba6541"></a>
 
-# Zoom in case:
+# Zoom (just in case):
 
 <https://stonybrook.zoom.us/j/93553126576?pwd=aDBQN1M2V3BUanpHRUtYd0VZbm5YQT09>
 
@@ -58,15 +58,16 @@ TA office hours: TBA
 # Grading: Numerical Score
 
 -   Homework: 20%
--   Midterms: 50%
--   Final exam: 30%
+-   Midterm1: 25%
+-   Midterm2: 25%
+-   Final: 30%
 -   Students with regular participation and constructive feedback get 0.5% or 1% bonus
 
-Namely, the numerical grade num_grade for the course will be calculated as:
+Namely, the numerical grade for the course will be calculated as:
 
 ```
-def calculate_grade(Homeworks, Midterms, Final, Bonus):
-    return 0.20 * Homeworks + 0.50 * Midterm + 0.30 * Final + Bonus
+def numerical_grade(Homework, Midterm1, Midterm2, Final, Bonus):
+    return 0.20 * Homework + 0.25 * Midterm1 + 0.25 * Midterm2 + 0.30 * Final + Bonus
 ```
 
 
