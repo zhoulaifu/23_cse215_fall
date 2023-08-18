@@ -1,5 +1,5 @@
 
-# CSE215: Foundations of Computer Science (2003Fall Edition)
+# CSE215: Foundations of Computer Science (State University of New York, Korea, Fall 2023)
 
 # Course overview
 
