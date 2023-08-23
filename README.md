@@ -3,7 +3,7 @@
 
 # Course overview
 
-This course is presented by the Computer Science Department at SUNY Korea. It delves into discrete mathematics, a fundamental branch essential for a deep understanding of computer science. Topics covered include propositional and predicate logic, number theory, proof techniques, sequences, recursion, functions, relations, and sets.
+This course is presented by the Computer Science Department at SUNY Korea. It is about discrete mathematics, a fundamental branch essential for a deep understanding of computer science. Topics covered include propositional and predicate logic, number theory, proof techniques, sequences, recursion, functions, relations, and sets.
 
 The course materials, available in this public repository, will be added to over the course of the semester. We'll be adapting materials previously used at SUNY Korea and Stony Brook University for our curriculum.
 
