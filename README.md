@@ -36,12 +36,12 @@ Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1s
 
 # Overall Course Schedule
 
-Lectures:  TU, TH 12:30 PM - 1:50 PM, at B207
+Lectures:  TU, TH 12:30  - 13:50, at B207
 
-Recitation: TU 3:30 PM - 4:25 PM PM, at B207
+Recitation: TU 15:30  - 16:25, at B207
 
 
-Office hours: TBA,  at B424
+Office hours: TU 14:00 - 15:00, TH 15:30 - 16:30  at B424
 
 TA office hours: TBA
 
