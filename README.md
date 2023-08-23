@@ -45,9 +45,7 @@ Office hours: TU 14:00 - 15:00, TH 15:30 - 16:30  at B424
 
 TA office hours: TBA
 
-
-<a id="org4ba6541"></a>
-
+Final: Dec 12 Tuesday 12:30 - 15:00 pm at B207
 # Zoom (just in case):
 
 <https://stonybrook.zoom.us/j/93553126576?pwd=aDBQN1M2V3BUanpHRUtYd0VZbm5YQT09>
