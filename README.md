@@ -59,7 +59,7 @@ Final: Dec 12 Tuesday 12:30 - 15:00 pm at B207
 -   Midterm1: 25%
 -   Midterm2: 25%
 -   Final: 30%
--   Students with regular participation and constructive feedback get 0.5% or 1% bonus
+-   Students with regular participation or constructive feedback get 0.5% or 1% bonus
 
 Namely, the numerical grade for the course will be calculated as:
 
