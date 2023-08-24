@@ -90,7 +90,7 @@ Zhoulai Fu \<zhoulai dot fu at sunykorea.ac.kr\>  or  \<zhoulai dot fu at stonyb
 
 # Teaching assistant
 
-TBA
+Junhyeong Park \<phjpurpleoob@gmail.com\>
 
 <a id="org24aa011"></a>
 
