@@ -75,9 +75,58 @@ Assignments submitted after the deadline are typically not acceptable. Should yo
 <a id="orgefb96c0"></a>
 
 
-# Grading: Letter Score
 
-TBA 
+# Grading: Letter scores 
+
+
+### The following algorithm  guarantees that (a) around 50% of students get an A or A-, and (b) students will earn a grade higher than or equivalent to what they would receive with a traditional absolute grading system, barring infrequent boundary situations.
+
+
+We initiate the grading process by calculating numerical scores for each student and the median of these scores. We then define a cutoff score, denoted by 'c',  which is the minimum of the median score and 90. Letter grades will be allocated based on the following ranges:
+
+- A: Greater than 0.7*c + 30 up to 100
+- A-: Greater than 'c' up to 0.7*c + 30
+- B+: Greater than 'c - 4' up to 'c'
+- B: Greater than 'c - 7' up to 'c - 4'
+- B-: Greater than 'c - 10' up to 'c - 7'
+- C+: Greater than 'c - 14' up to 'c - 10'
+- C: Greater than 'c - 17' up to 'c - 14'
+- C-: Greater than 'c - 20' up to 'c - 17'
+- D+: Greater than 'c - 24' up to 'c - 20'
+- D: Greater than 'c - 27' up to 'c - 24'
+- D-: Greater than 'c - 30' up to 'c - 27'
+- F: Scores equal to or less than 'c - 30'
+
+Please note that the boundaries for the letter grades are exclusive on the lower end and inclusive on the higher end.
+
+Let's say that the cutoff value 'c' is 85. 
+
+For a letter grade 'B+', the score range is greater than 'c - 4' (85 - 4 = 81) and up to 'c' (85). This means that if a student's score is 81.5, their letter grade would be 'B+'. However, if their score is exactly 81, they would not receive a 'B+', but would instead fall into the B range.
+
+The following Python code implements this grading scheme
+
+```
+def get_letter_grade(score, c):
+    boundaries = {
+        'A':  0.7*c + 30,
+        'A-': c,
+        'B+': c - 4,
+        'B':  c - 7,
+        'B-': c - 10,
+        'C+': c - 14,
+        'C':  c - 17,
+        'C-': c - 20,
+        'D+': c - 24,
+        'D':  c - 27,
+        'D-': c - 30,
+    }
+    
+    for grade, boundary in boundaries.items():
+        if score > boundary:
+            return grade
+    return 'F'
+```
+
 
 
 
