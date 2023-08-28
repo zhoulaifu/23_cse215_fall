@@ -56,9 +56,9 @@ Final: Dec 12 Tuesday 12:30 - 15:00 at B207
 
 # Grading: Numerical Score
 
--   Homework: 20%
--   Midterm1: 25%
--   Midterm2: 25%
+-   Homework: 30%
+-   Midterm1: 20%
+-   Midterm2: 20%
 -   Final: 30%
 -   Students with regular participation or constructive feedback get 0.5% or 1% bonus
 
@@ -66,7 +66,7 @@ Namely, the numerical grade for the course will be calculated as:
 
 ```
 def numerical_grade(Homework, Midterm1, Midterm2, Final, Bonus):
-    return 0.20 * Homework + 0.25 * Midterm1 + 0.25 * Midterm2 + 0.30 * Final + Bonus
+    return 0.30 * Homework + 0.20 * Midterm1 + 0.20 * Midterm2 + 0.30 * Final + Bonus
 ```
 
 
