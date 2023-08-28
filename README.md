@@ -39,7 +39,7 @@ Lectures:  TU, TH 12:30  - 13:50, at B207
 
 Recitation: TU 15:30  - 16:25, at B207
 
-Homework due: 23:59 (included) Thursday  
+Homework is announced on Thursday, and due time is next Thursday 23:59 (included)  
 
 Office hours: TU 14:00 - 15:00, TH 15:30 - 16:30  at B424
 
