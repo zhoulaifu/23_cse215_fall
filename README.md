@@ -43,6 +43,8 @@ Homework due: 23:59 (included) Thursday
 
 Office hours: TU 14:00 - 15:00, TH 15:30 - 16:30  at B424
 
+TA Office hours: Mo 18:00-22:00, We 16:00 - 20:30
+
 Final: Dec 12 Tuesday 12:30 - 15:00 at B207
 
 # Zoom (just in case):
@@ -138,7 +140,7 @@ Zhoulai Fu \<zhoulai dot fu at sunykorea.ac.kr\>  or  \<zhoulai dot fu at stonyb
 
 # Teaching assistant
 
-Junhyeong Park \<phjpurpleoob@gmail.com\>
+Junhyeong Park \<junhyeong.park@stonybrook.edu\>
 
 <a id="org24aa011"></a>
 
