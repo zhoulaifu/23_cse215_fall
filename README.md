@@ -60,7 +60,7 @@ Final: Dec 12 Tuesday 12:30 - 15:00 at B207
 -   Midterm1: 20%
 -   Midterm2: 20%
 -   Final: 30%
--   Students with regular participation or constructive feedback get 0.5% or 1% bonus
+-   Students who consistently participate or provide constructive feedback will receive a bonus of 0.5% or 1%. However, any student with three or more class absences will not be eligible for this bonus.
 
 Namely, the numerical grade for the course will be calculated as:
 
